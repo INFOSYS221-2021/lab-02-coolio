@@ -1,0 +1,59 @@
+Exercise One: Solving Day-to-Day problems
+Apply the problem-solving steps to the following situations:
+1. Find the most convenient path from Silo Park to Business School.
+2. Organise a group meeting to discuss project ideas for INFOSYS 221.
+
+Solution for question one:
+Understanding the problem:
+- Most Convenient (fastest route)
+- Options (by foot or by transportation)
+- Factors to consider: Budget/ Time restriction/ Time of day (peak and off-peak hours)/ Weather conditions
+
+Strategy:
+Use of Google maps for walking
+Google maps/ AT Mobile app for public transportations (Find the nearest bus stop and route)
+Note: Bus waiting time need to be considered.
+
+Solve the problem:
+Use all the tools depending on the circumstances to decide which most convenient path to OGGB.
+
+Look back:
+To check if our solution is the optimal option. If not, repeat the process from the start.
+Consdieration: time spent on travelling.
+
+Solution for question two:
+Understanding the problem
+Organise a group meeting.
+
+Strategy:
+Contact everyone to check on availbility
+Decide on a specific date and time
+Offer multiple channels from face-to-face meeting to online meeting/ group chat.
+
+Solve the problem:
+Engage with group members
+
+Look back:
+Check the satisfaction and feedbacks on the tools used. This allow the group to decide if they would stick to existing form of meeting or to find a better tools for next meeting.
+
+Exercise Two: Sorting Numbers
+Apply the problem-solving steps to the following:
+1. Given three integer values, display them in ascending order.
+2. Given four integer values, display them in ascending order.
+
+Solution for question one:
+Understanding the problem:
+Arrange the number in ASC order.
+
+Strategy:
+Use divide and conquer algorithm.
+
+Solve the problem:
+number will be arranged accordingly.
+
+Look back:
+Check if the numbers are sorted accordingly
+Check if other algorithm strategies may perform better in term of time spent to solve the problem.
+
+Solution for question two:
+Similar to solution for question one.
